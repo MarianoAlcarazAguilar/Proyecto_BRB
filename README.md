@@ -1,4 +1,4 @@
-# Proyecto_BRB
+# Proyecto BRB
 
 Objetivos prinicpales:  
 
